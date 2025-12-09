@@ -10,7 +10,7 @@ The entire analysis is contained in the notebook MLDivisas-Commodities.ipynb, wh
 
 📂 Repository Contents
 MLDivisas-Commodities.ipynb             # Full analysis, preprocessing, ML models, and plots
-/data/                 # Folder containing the dataset (user-provided)
+/data/                 # Folder containing the dataset 
 README.md
 
 
@@ -64,7 +64,7 @@ Copper → CLP	High	Linear / Ridge
 Copper → COP	Medium	Linear / Ridge
 📈 How to Run the Project
 1. Clone the repo
-git clone https://github.com/yourusername/Commodity-FX-Modeling.git
+git clone https://github.com/HugoCortazar/Commodity-FX-Modeling.git
 cd Commodity-FX-Modeling
 
 2. Install dependencies
